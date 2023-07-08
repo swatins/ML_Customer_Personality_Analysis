@@ -1,0 +1,6 @@
+[2023-06-28 21:40:03,503] werkzeug - WARNING -  * Debugger is active!
+[2023-06-28 21:40:03,509] werkzeug - INFO -  * Debugger PIN: 967-762-261
+[2023-06-28 21:40:11,683] root - INFO - Error occurred python script name [F:\SHIVAN_KUMAR\week_3\Customer_Personality\demo_exception.py] line number [11] error message [We are testing our custom exception file].
+[2023-06-28 21:40:11,684] root - INFO - We are testing logging module
+[2023-06-28 21:40:11,685] werkzeug - INFO - 127.0.0.1 - - [28/Jun/2023 21:40:11] "GET / HTTP/1.1" 200 -
+[2023-06-28 21:41:57,059] werkzeug - INFO -  * Detected change in 'f:\\shivan_kumar\\week_3\\customer_personality\\src\\exception\\exception.py', reloading

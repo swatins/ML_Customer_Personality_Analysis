@@ -1,0 +1,8 @@
+[2023-06-28 12:21:51,407] werkzeug - WARNING -  * Debugger is active!
+[2023-06-28 12:21:51,410] werkzeug - INFO -  * Debugger PIN: 967-762-261
+[2023-06-28 12:22:32,489] root - INFO - Testing the logging file 
+[2023-06-28 12:22:32,489] werkzeug - INFO - 127.0.0.1 - - [28/Jun/2023 12:22:32] "GET / HTTP/1.1" 200 -
+[2023-06-28 12:22:34,480] werkzeug - INFO[2023-06-28 12:53:40,927] werkzeug - INFO -  * Restarting with stat
+[2023-06-28 12:53:46,941] werkzeug - INFO -  * Restarting with stat
+[2023-06-28 12:55:33,714] werkzeug - INFO -  * Restarting with stat
+eption\\__init__.py', reloading
